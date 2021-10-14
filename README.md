@@ -1,6 +1,6 @@
-# CFAOldsmar-Setup
-Management setup generator
-This program is designed to create a premade setup for CFA Oldsmar by doing as follows:
+# CFAOldsmar-Setup /n
+Management setup generator /n
+This program is designed to create a premade setup for CFA Oldsmar by doing as follows: /n
 > Getting the user to input scheduled employees & their shifts
 > Placing them on certain positions between the hours of 2-10:45 based on their knowledge of specific positions
 > Confirm no one is outside for more than an hour at a time on IPad or 2 hours on Cash 
