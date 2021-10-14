@@ -1,4 +1,4 @@
-# CFAOldsmar-Setup
+# CFAOldsmarSetup
 Management setup generator\
 This program is designed to create a premade setup for CFA Oldsmar by doing as follows:
 > Getting the user to input scheduled employees & their shifts\
