@@ -1,0 +1,66 @@
+#Employees with corresponding numbers
+#1-28 Minors
+Employee_num = {"Ailidh Buffalo": "1", 
+"Ava Komerska": "2",
+"Camila Walker": "3",
+"Camryn Pardue": "4",
+"Cayla Moore": "5",
+"Chase Blanchard": "6", 
+"Cooper Kasper": "7",
+"Daniel Phillips": "8",
+"Gabriella Vallar": "9",
+"Jayda Blake": "10",
+"Jessica Cohen": "11",
+"Jonathan Sanchez": "12",
+"Jordan Attebery": "13",
+"Julian Thacker": "14",
+"Kaleb Bibbs": "15",
+"Keiton Pegher": "16",
+"LaiLani Burnett": "17",
+"Landon Klingel": "18",
+"Lauren Martinez": "19",
+"Mace Moore": "20",
+"Madisyn McGuinness": "21",
+"Morgan Miller": "22",
+"Natalie Candiano": "23",
+"Olivia Young": "24",
+"Ramya Hayes": "25",
+"Renzo Negrillo": "26",
+"Sierra Eddy": "27",
+"Trinity Byrnes": "28",
+
+#29-41 Leadership
+
+"Andrea Marrero": "29",
+"Paul Weishaar": "30",
+"Justin Johnson": "31",
+"Makenzie Brinker": "32",
+"Brandon Latimer": "33",
+"Tanya Brubaker": "34",
+"Shaylyn King": "35",
+"David Fink": "36",
+"Francesca Orito": "37",
+"Brittani Craft": "38",
+"Jennifer Young": "39",
+"Chase Vivolo": "40",
+"Ryan Robinson": "41",
+
+#42-51 Employees
+
+"Taylor Cheek": "42",
+"Raquel Torres": "43",
+"Mae Slayton": "44",
+"Gabriella Baffi": "45",
+"Hannah Fink": "46",
+"Alexsus Gerardo-Santana": "47",
+"Courtney Rehula": "48",
+"Perla Herrera Rizzo": "49",
+"Oralia Garcia": "50",
+"Karen Dominguez-Ortiz": "51",
+
+#52-55 In Training
+
+"Allyson Reeves": "52",
+"Shadia Yagoub": "53",
+"Katerina Koulouvardis": "54",
+"John Lugo": "55"}
