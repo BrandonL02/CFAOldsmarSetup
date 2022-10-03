@@ -1,0 +1,4 @@
+Modules needed for CFA Setup Code:
+python-docx: pip install python-docx
+pandas: pip install pandas
+Selenium: pip install -U selenium
