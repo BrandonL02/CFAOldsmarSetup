@@ -108,9 +108,17 @@ for p in range (0,53):
 
 #Display full dataframe
 
-pd.set_option('display.max_columns', None)
-print(df) 
+#   pd.set_option('display.max_columns', None)
+#   print(df) 
+Monday = {}
 
+#Monday Staff
+#print(df.iloc[0:53,0:1])
+
+for h in df.iloc[0:53,0:1]:
+    if h != '':
+         
+      
 
 driver.close()
 
