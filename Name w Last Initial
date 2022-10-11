@@ -1,0 +1,9 @@
+Emp = ['Cabe Buffalo','Glen Vivolo', 'Jenna Young', 'Brandon Latimer', 'Brandon Mooneyham']
+
+#element = [sub.replace(' ', ':') for sub in Emp]
+for x in Emp:
+    sep = ' '
+    x = head,sep,tail = x.partition(sep)
+    tail = (tail[0:1] + '.')
+    x = ''.join(head + ' ' + tail)
+    print (x)
