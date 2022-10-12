@@ -1,4 +1,5 @@
 Emp = ['Cabe Buffalo','Glen Vivolo', 'Jenna Young', 'Brandon Latimer', 'Brandon Mooneyham']
+Name_cut = []
 
 #element = [sub.replace(' ', ':') for sub in Emp]
 for x in Emp:
@@ -6,4 +7,5 @@ for x in Emp:
     x = head,sep,tail = x.partition(sep)
     tail = (tail[0:1] + '.')
     x = ''.join(head + ' ' + tail)
-    print (x)
+    Name_cut.append(x)
+print (Name_cut)
