@@ -1,6 +1,6 @@
-# CFAOldsmarSetup
+# CFASetupAutomation
 
-## Management Setup Generator
+## Staff Schedule Generator
 
 This program is designed to create an automated, premade setup for **CFA Oldsmar** leadership by performing the following tasks:
 
